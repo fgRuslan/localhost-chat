@@ -1,6 +1,6 @@
 #localhost-chat
 
-This  chat  allows   you  to  chat  with  other  lcients  on  your  localhost
+This  chat  allows   you  to  chat  with  other  clients  on  your  localhost
 
 Default  port:11719
 
